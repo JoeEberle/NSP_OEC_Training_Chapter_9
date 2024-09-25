@@ -107,7 +107,7 @@ To get started with the **Nsp Oec Training Chapter 9** solution repository, foll
 - **Educational** - Includes educational dialogue and background material
     
 ## Deliverables or Figures
- ![additional_image](NSP_OEC_Training_Chapter_9.png)  <br>
+ ![additional_image](airway_anatomy.png)  <br>![additional_image](assist_with_inhaler.png)  <br>![additional_image](barrier_device_for_rescue_breathing.png)  <br>![additional_image](indications_for_supplimental_oxygen.png)  <br>![additional_image](naso_airway.png)  <br>![additional_image](nomal_breath_rates.png)  <br>![additional_image](NSP_OEC_Training_Chapter_9.png)  <br>![additional_image](opening_airway.png)  <br>![additional_image](oro_mouth_airway.png)  <br>![additional_image](pulse_oximetry.png)  <br>
     
 
 ## Github    
