@@ -4,7 +4,25 @@
 
 ## National Ski Patrol - Outdoor Emergency Care chapter 9
 
-    ![Image image_filename](code.png)
+    
+![Solution](code.png)
+
+    
+## Table of Contents
+
+- [Solution Overview](#solution-overview)
+- [Who will use this ?](#who-can-use)
+- [Advantages of Using](#advantages-of-using)
+- [Return on Investment (ROI)](#return-on-investment-roi)
+- [How it Works](#how-it-works)
+- [Conclusion](#conclusion)
+- [Getting Started](#getting-started)
+- [Solution Features](#solution-features)
+- [Code Features](#code-features)
+- [Deliverables or Figures](#deliverables-or-figures)
+- [Contact Information](#contact-information)
+
+
 Chapter 9: Airway Management
 
 1. Describe the function of the epiglottis.
@@ -79,7 +97,13 @@ Both techniques are vital in maintaining an open airway to ensure adequate breat
 
 
 
-![Image image_filename](code.png)![Image image_filename](sample.png)
+
+![Solution](code.png)
+
+    
+![Solution](code.png)
+
+    
 ## Getting Started
 
 The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
