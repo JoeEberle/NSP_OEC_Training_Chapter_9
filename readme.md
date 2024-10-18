@@ -1,6 +1,9 @@
 ![Image image_filename](solution_sign.png)
-    # Nsp Oec Training Chapter 9 
-    ## National Ski Patrol - Outdoor Emergency Care chapter 9
+    
+# Nsp Oec Training Chapter 9 
+
+## National Ski Patrol - Outdoor Emergency Care chapter 9
+
     ![Image image_filename](code.png)
 Chapter 9: Airway Management
 
@@ -96,9 +99,9 @@ To get started with the **Nsp Oec Training Chapter 9** solution repository, foll
 - Saves You Time 
 
 
-## Notebook Features
+## Code Features
 
-These Features are design to provide everything you need for **Knowledge Transfer** 
+These features are designed to provide everything you need for **Nsp Oec Training Chapter 9** 
 
 - **Self Documenting** - Automatically identifes major steps in notebook 
 - **Self Testing** - Unit Testing for each function
@@ -108,6 +111,7 @@ These Features are design to provide everything you need for **Knowledge Transfe
 - **Self Debugging** - Enhanced python standard debugging
 - **Low Code** - or - No Code  - Most solutions are under 50 lines of code
 - **Educational** - Includes educational dialogue and background material
+
     
 ## List of Figures
  ![additional_image](airway_anatomy.png)  <br>![additional_image](assist_with_inhaler.png)  <br>![additional_image](barrier_device_for_rescue_breathing.png)  <br>![additional_image](indications_for_supplimental_oxygen.png)  <br>![additional_image](naso_airway.png)  <br>![additional_image](nomal_breath_rates.png)  <br>![additional_image](NSP_OEC_Training_Chapter_9.png)  <br>![additional_image](opening_airway.png)  <br>![additional_image](oro_mouth_airway.png)  <br>![additional_image](pulse_oximetry.png)  <br>
