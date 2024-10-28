@@ -39,7 +39,7 @@ As a result, air is drawn into the lungs through the airways to equalize the pre
 
 2. **Exhalation**: The diaphragm relaxes and moves upward, while the intercostal muscles relax, causing the chest cavity to decrease in volume.
 This increases the pressure inside the lungs, forcing air out through the airways.
-Breathing is controlled by the respiratory centers in the brainstem, which respond to changes in carbon dioxide and oxygen levels in the blood. This process ensures a constant exchange of oxygen (for the body’s cells) and carbon dioxide (a waste product) with the external environment.
+Breathing is controlled by the respiratory centers in the brainstem, which respond to changes in carbon dioxide and oxygen levels in the blood. This process ensures a constant exchange of oxygen (for the bodyâ€™s cells) and carbon dioxide (a waste product) with the external environment.
 
 
 ## 9.3 manually open the airway or mouth
@@ -48,7 +48,7 @@ Here are two common techniques used to manually open the airway or mouth in a pa
 1. **Head-Tilt, Chin-Lift Maneuver** (for non-trauma patients):
 Purpose: Opens the airway by preventing the tongue from obstructing the throat.
 Steps:
-- Place one hand on the patient’s forehead and gently tilt the head back.
+- Place one hand on the patientâ€™s forehead and gently tilt the head back.
 - Use the fingertips of your other hand to lift the chin upward.
 - This motion helps to open the airway by extending the neck and moving the tongue away from the back of the throat.
 
@@ -58,7 +58,7 @@ Use: For unconscious or unresponsive patients without suspected spinal injuries.
 2. **Jaw-Thrust Maneuver** (for trauma patients with possible spinal injury):
 Purpose: Opens the airway without moving the head or neck, minimizing risk to the spine.
 Steps:
-Position yourself at the patient’s head, placing your hands on both sides of the jaw.
+Position yourself at the patientâ€™s head, placing your hands on both sides of the jaw.
 Using your index fingers, push the angles of the jaw upward, while stabilizing the head with your thumbs.
 This action moves the jaw forward and opens the airway by moving the tongue away from the back of the throat.
 Use: For trauma patients or when a spinal injury is suspected.
