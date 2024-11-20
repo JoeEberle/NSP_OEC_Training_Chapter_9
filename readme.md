@@ -39,7 +39,7 @@ As a result, air is drawn into the lungs through the airways to equalize the pre
 
 2. **Exhalation**: The diaphragm relaxes and moves upward, while the intercostal muscles relax, causing the chest cavity to decrease in volume.
 This increases the pressure inside the lungs, forcing air out through the airways.
-Breathing is controlled by the respiratory centers in the brainstem, which respond to changes in carbon dioxide and oxygen levels in the blood. This process ensures a constant exchange of oxygen (for the bodyâ€™s cells) and carbon dioxide (a waste product) with the external environment.
+Breathing is controlled by the respiratory centers in the brainstem, which respond to changes in carbon dioxide and oxygen levels in the blood. This process ensures a constant exchange of oxygen (for the body’s cells) and carbon dioxide (a waste product) with the external environment.
 
 
 ## 9.3 manually open the airway or mouth
@@ -48,7 +48,7 @@ Here are two common techniques used to manually open the airway or mouth in a pa
 1. **Head-Tilt, Chin-Lift Maneuver** (for non-trauma patients):
 Purpose: Opens the airway by preventing the tongue from obstructing the throat.
 Steps:
-- Place one hand on the patientâ€™s forehead and gently tilt the head back.
+- Place one hand on the patient’s forehead and gently tilt the head back.
 - Use the fingertips of your other hand to lift the chin upward.
 - This motion helps to open the airway by extending the neck and moving the tongue away from the back of the throat.
 
@@ -58,7 +58,7 @@ Use: For unconscious or unresponsive patients without suspected spinal injuries.
 2. **Jaw-Thrust Maneuver** (for trauma patients with possible spinal injury):
 Purpose: Opens the airway without moving the head or neck, minimizing risk to the spine.
 Steps:
-Position yourself at the patientâ€™s head, placing your hands on both sides of the jaw.
+Position yourself at the patient’s head, placing your hands on both sides of the jaw.
 Using your index fingers, push the angles of the jaw upward, while stabilizing the head with your thumbs.
 This action moves the jaw forward and opens the airway by moving the tongue away from the back of the throat.
 Use: For trauma patients or when a spinal injury is suspected.
@@ -88,24 +88,4 @@ Both techniques are vital in maintaining an open airway to ensure adequate breat
     
 ![Solution](code.png)
 
-    
-## Getting Started
-
-The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
-
-To get started with the **Nsp Oec Training Chapter 9** solution repository, follow these steps:
-1. Clone the repository to your local machine.
-2. Install the required dependencies listed at the top of the notebook.
-3. Explore the example code provided in the repository and experiment.
-4. Run the notebook and make it your own - **EASY !**
-    
-## List of Figures
- ![additional_image](airway_anatomy.png)  <br>![additional_image](assist_with_inhaler.png)  <br>![additional_image](barrier_device_for_rescue_breathing.png)  <br>![additional_image](indications_for_supplimental_oxygen.png)  <br>![additional_image](naso_airway.png)  <br>![additional_image](nomal_breath_rates.png)  <br>![additional_image](NSP_OEC_Training_Chapter_9.png)  <br>![additional_image](opening_airway.png)  <br>![additional_image](oro_mouth_airway.png)  <br>![additional_image](pulse_oximetry.png)  <br>
-    
-
-## Github https://github.com/JoeEberle/ - Email  josepheberle@outlook.com 
-    
-![Developer](developer.png)
-
-![Brand](brand.png)
     
